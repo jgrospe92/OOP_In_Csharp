@@ -13,7 +13,7 @@
 
 ## Demo
 <img src="images\demo1.PNG" width="400">
----
+
 ## Computerization of Health Records
 - Takes inputs from the user
 - It displays user health profile, it displays their names, birth year, age, height, weight, maximum heart rate, target heart rate, BMI numeric value and BMI text value.
