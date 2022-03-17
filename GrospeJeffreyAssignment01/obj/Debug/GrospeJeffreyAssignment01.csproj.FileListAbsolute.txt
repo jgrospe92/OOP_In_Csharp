@@ -1,0 +1,7 @@
+G:\Computec Science 3rd Sem\App Dev\GrospeJeffreyAssignment01\GrospeJeffreyAssignment01\bin\Debug\GrospeJeffreyAssignment01.exe.config
+G:\Computec Science 3rd Sem\App Dev\GrospeJeffreyAssignment01\GrospeJeffreyAssignment01\bin\Debug\GrospeJeffreyAssignment01.exe
+G:\Computec Science 3rd Sem\App Dev\GrospeJeffreyAssignment01\GrospeJeffreyAssignment01\bin\Debug\GrospeJeffreyAssignment01.pdb
+G:\Computec Science 3rd Sem\App Dev\GrospeJeffreyAssignment01\GrospeJeffreyAssignment01\obj\Debug\GrospeJeffreyAssignment01.csproj.AssemblyReference.cache
+G:\Computec Science 3rd Sem\App Dev\GrospeJeffreyAssignment01\GrospeJeffreyAssignment01\obj\Debug\GrospeJeffreyAssignment01.csproj.CoreCompileInputs.cache
+G:\Computec Science 3rd Sem\App Dev\GrospeJeffreyAssignment01\GrospeJeffreyAssignment01\obj\Debug\GrospeJeffreyAssignment01.exe
+G:\Computec Science 3rd Sem\App Dev\GrospeJeffreyAssignment01\GrospeJeffreyAssignment01\obj\Debug\GrospeJeffreyAssignment01.pdb
