@@ -28,7 +28,7 @@
 <img src="images\demo2.PNG" width="400">
 
 ## What I learned
-- How to built an app using OOP
+- How to built an app in C# using OOP
 - Using string interpolation to display a formatted text
 
 ## Found a bug?
